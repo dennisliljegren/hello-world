@@ -9,3 +9,4 @@ then
 else
 	echo "Variablen är inte 1"
 fi
+echo "Ändring gjord"
